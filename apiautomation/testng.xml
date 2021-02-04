@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="StudentInfromation">
+	
+	<test name="StudentInfromation">
+		<classes>
+			<!-- Configuration -> FinancialAid -> TestCases -->
+			<class
+				name="configuration.Studentaccount.TestCase.AccountStatusApiTest">
+				<methods>
+					<include name="createaccountstatus" />
+					<include name="GetAccountStatusAfterSavenew" />
+					<include name="SaveAccountStatus" />
+					<include name="GetAccountStatusAfterSave" />
+					<include name="deleteAccountStatus" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

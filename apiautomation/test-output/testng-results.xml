@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-13T14:06:02Z" name="Default suite" finished-at="2020-12-13T14:06:14Z" duration-ms="11788">
+    <groups>
+    </groups>
+    <test started-at="2020-12-13T14:06:02Z" name="Default test" finished-at="2020-12-13T14:06:14Z" duration-ms="11788">
+      <class name="configuration.Studentaccount.TestCase.AccountStatusApiTest">
+        <test-method is-config="true" signature="RequestSetup()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:02Z" name="RequestSetup" finished-at="2020-12-13T19:36:03Z" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestSetup -->
+        <test-method signature="createaccountstatus()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:03Z" name="createaccountstatus" finished-at="2020-12-13T19:36:12Z" duration-ms="9237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createaccountstatus -->
+        <test-method is-config="true" signature="RequestSetup()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:12Z" name="RequestSetup" finished-at="2020-12-13T19:36:12Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestSetup -->
+        <test-method signature="GetAccountStatusAfterSavenew()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:12Z" name="GetAccountStatusAfterSavenew" finished-at="2020-12-13T19:36:12Z" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAccountStatusAfterSavenew -->
+        <test-method is-config="true" signature="RequestSetup()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:12Z" name="RequestSetup" finished-at="2020-12-13T19:36:12Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestSetup -->
+        <test-method signature="SaveAccountStatus()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:12Z" name="SaveAccountStatus" finished-at="2020-12-13T19:36:13Z" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SaveAccountStatus -->
+        <test-method is-config="true" signature="RequestSetup()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:13Z" name="RequestSetup" finished-at="2020-12-13T19:36:13Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestSetup -->
+        <test-method signature="GetAccountStatusAfterSave()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:13Z" name="GetAccountStatusAfterSave" finished-at="2020-12-13T19:36:13Z" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAccountStatusAfterSave -->
+        <test-method is-config="true" signature="RequestSetup()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:13Z" name="RequestSetup" finished-at="2020-12-13T19:36:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestSetup -->
+        <test-method signature="deleteAccountStatus()[pri:0, instance:configuration.Studentaccount.TestCase.AccountStatusApiTest@59b38691]" started-at="2020-12-13T19:36:13Z" name="deleteAccountStatus" finished-at="2020-12-13T19:36:14Z" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccountStatus -->
+      </class> <!-- configuration.Studentaccount.TestCase.AccountStatusApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

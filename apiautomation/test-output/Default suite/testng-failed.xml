@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="configuration.Studentaccount.TestCase.AccountStatusApiTest">
+        <methods>
+          <include name="GetAccountStatusAfterSavenew"/>
+          <include name="GetAccountStatusAfterSave"/>
+          <include name="deleteAccountStatus"/>
+          <include name="createaccountstatus"/>
+          <include name="SaveAccountStatus"/>
+          <include name="RequestSetup"/>
+        </methods>
+      </class> <!-- configuration.Studentaccount.TestCase.AccountStatusApiTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
